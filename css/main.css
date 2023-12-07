@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(111, 0, 255);
+    background-color: yellowgreen;
+}
+ul {
+    color: blue;
+    background-color: yellow;
+    font-size: 18px; 
+}
+p {
+    color: rgb(14, 14, 51);    
+    font-size: 20px; 
+}
+ol {
+    color: blue;
+    background-color: yellow;
+    font-size: 18px; 
+}
